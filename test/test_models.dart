@@ -22,6 +22,7 @@ const invalidKeyAppData = {
   "versionName": "1.2"
 };
 
+// Add more tests later on...
 void main() {
   test("App Info from Valid App Map", () {
     final chromeAppInfo = AppInfo(
@@ -31,7 +32,7 @@ void main() {
         description: null,
         isLaunchable: false,
         versionCode: 1,
-        versionName: "1.2");
+        versionName: "1.2", isSystemApp: false);
     final got = AppInfo.fromAndroidData(validAppData);
     expect(got.appName, chromeAppInfo.appName);
     expect(got.appPackage, chromeAppInfo.appPackage);
