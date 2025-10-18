@@ -95,4 +95,10 @@
 
 ## 4.1.1
 
+* Added `AppType` and `LaunchType` enums for better filtering.
 * Modified the signature of `getApps` to include `AppType` and `LaunchType` filter.
+
+
+## 4.1.2
+
+* Updated project status.

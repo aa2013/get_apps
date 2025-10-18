@@ -1,7 +1,8 @@
-![Status](https://img.shields.io/badge/status-inactive-red?style=for-the-badge)
-<h3 align="center" style="color:red;">
-🚧 This repository is currently inactive. I will resume work on it later. 🚧
+![Status](https://img.shields.io/badge/status-limited%20availability-yellow?style=for-the-badge)
+<h3 align="center" style="color:orange;">
+⏳ I'm currently short on time, so responses and updates may be delayed. Thanks for your patience! ⏳
 </h3>
+
 
 # get_apps
 
